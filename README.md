@@ -3,13 +3,8 @@ Software
 
 Software used in datanalysis15m research
 
-===================================================================
-==                                                               ==
-== Contact:                                                      ==
-==                                                               ==
-==   infoDatAnalysis15m@gmail.com                                ==
-==                                                               ==
-===================================================================
+                                                              
+Contact:  infoDatAnalysis15m@gmail.com                                                   
 
 
 -----------
